@@ -1,0 +1,20 @@
+ASP.NET SalesForce PROJECT FEATURE LIST:
+
+Required Features:
+	* Live Chat between agent/client
+	* Agent chat availability status
+	* Ability to send/receive Documents
+	* SalesForce API - Ability to view Active policies - Client
+	* SalesForce API - Ability to view all policies - Agent
+
+Optional Features:
+	* Calendar integration to show agent availability to allow client to choose an appointment time.
+
+
+TIMELINE:
+	Tuesday  : Implement Live chat Features (Completed)
+	Wednesday: Complete Role-based access to app areas
+	Thursday : Complete Salesforce integration (MVP) 
+	Friday   : Complete Document upload/download feature/UI Polish
+	Sat-Sun  : Integrate Calendar/Tie up loose ends/Required Feature improvements
+	

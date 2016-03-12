@@ -1,0 +1,55 @@
+﻿@model inForce.Models.Client
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <fieldset>
+        <legend>
+            @Model.Name
+        </legend>
+        <table>
+            <thead>
+                <tr>
+                    @Model.PolicyNumber
+                </tr>
+                <tr>
+                    @*@{
+                        var myChart = new Chart(width: 600, height: 400)
+                           .AddTitle("Employees")
+                           .AddSeries(chartType: "column",
+                              xValue: new[] { "Peter", "Andrew", "Julie", "Mary", "Dave" },
+                              yValues: new[] { "0", "0", "0", "0", "0" })
+                           .Write();
+                    }*@
+                </tr>
+            </thead>
+        </table>
+    </fieldset>
+    @*<dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PolicyNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PolicyNumber)
+        </dd>
+
+    </dl>*@
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

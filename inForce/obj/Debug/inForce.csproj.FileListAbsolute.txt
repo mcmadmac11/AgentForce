@@ -1,0 +1,312 @@
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\ApplicationInsights.config
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\csc.exe
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\vbc.exe
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\VBCSCompiler.exe
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\inForce.dll.config
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\inForce.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\inForce.pdb
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Antlr3.Runtime.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\EntityFramework.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\EntityFramework.SqlServer.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.Web.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.ApplicationInsights.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Newtonsoft.Json.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Owin.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Helpers.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Mvc.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Optimization.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Razor.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.WebPages.Deployment.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.WebPages.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.WebPages.Razor.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\WebGrease.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.Web.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.ApplicationInsights.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Helpers.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Mvc.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Optimization.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.Razor.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.WebPages.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.WebPages.Deployment.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\System.Web.WebPages.Razor.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Antlr3.Runtime.pdb
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Newtonsoft.Json.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\EntityFramework.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\EntityFramework.SqlServer.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\obj\Debug\inForce.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\obj\Debug\inForce.pdb
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\AutoMapper.dll
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\bin\AutoMapper.xml
+c:\users\mcman\documents\visual studio 2015\Projects\inForce\inForce\obj\Debug\inForce.csprojResolveAssemblyReference.cache
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\ApplicationInsights.config
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\csc.exe
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\vbc.exe
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\VBCSCompiler.exe
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\inForce.dll.config
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\inForce.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\inForce.pdb
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Antlr3.Runtime.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\AutoMapper.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\EntityFramework.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\EntityFramework.SqlServer.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.Web.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Newtonsoft.Json.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Owin.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Salesforce.Common.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Salesforce.Force.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Net.Http.Extensions.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Net.Http.Primitives.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Helpers.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Mvc.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Optimization.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Razor.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.WebPages.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.WebPages.Razor.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\WebGrease.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\AutoMapper.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.Web.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Newtonsoft.Json.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Net.Http.Extensions.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Net.Http.Primitives.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Helpers.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Mvc.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Optimization.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.Razor.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.WebPages.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\System.Web.WebPages.Razor.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Antlr3.Runtime.pdb
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\EntityFramework.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\EntityFramework.SqlServer.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\obj\Debug\inForce.csproj.App.config
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\obj\Debug\inForce.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\obj\Debug\inForce.pdb
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\obj\Debug\inForce.Migrations.initial.resources
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\obj\Debug\inForce.csproj.GenerateResource.Cache
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\csc.exe.config
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\csc.rsp
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\csi.exe
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\csi.rsp
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\System.AppContext.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\System.Console.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\vbc.exe.config
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\bin\roslyn\vbc.rsp
+C:\Users\mcman\Documents\Visual Studio 2015\Projects\inForce\inForce\inForce\obj\Debug\inForce.csprojResolveAssemblyReference.cache
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\ApplicationInsights.config
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\csc.exe
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\csc.exe.config
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\csc.rsp
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\csi.exe
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\csi.rsp
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\System.AppContext.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\System.Console.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\vbc.exe
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\vbc.exe.config
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\vbc.rsp
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\VBCSCompiler.exe
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\inForce.dll.config
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\inForce.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\inForce.pdb
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Antlr3.Runtime.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\AutoMapper.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\EntityFramework.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\EntityFramework.SqlServer.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.Web.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Newtonsoft.Json.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Owin.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Salesforce.Common.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Salesforce.Force.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Net.Http.Extensions.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Net.Http.Primitives.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Helpers.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Mvc.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Optimization.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Razor.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.WebPages.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.WebPages.Razor.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\WebGrease.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Antlr3.Runtime.pdb
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\AutoMapper.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.Web.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Newtonsoft.Json.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Net.Http.Extensions.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Net.Http.Primitives.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Helpers.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Mvc.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Optimization.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.Razor.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.WebPages.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\System.Web.WebPages.Razor.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\EntityFramework.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\EntityFramework.SqlServer.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\obj\Debug\inForce.csproj.App.config
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\obj\Debug\inForce.dll
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\obj\Debug\inForce.pdb
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\obj\Debug\inForce.csprojResolveAssemblyReference.cache
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\obj\Debug\inForce.Migrations.initial.resources
+C:\Users\mcman\Documents\ProjectVersions\inForce\inForce\inForce\obj\Debug\inForce.csproj.GenerateResource.Cache
